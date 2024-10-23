@@ -1,2 +1,0 @@
-# Lukas-Portafolio
-First Portafolio
