@@ -1,18 +1,18 @@
-# Portafolio de Lukas Alessandro Salguero Garrido
+# Lukas Salguero Garrido - Portafolio
 
-¡Bienvenido a mi portafolio! Aquí encontrarás algunos de los proyectos en los que he trabajado, enfocados en análisis de datos, ciencia de datos y automatización.
+Welcome to my portfolio! Here you will find some of the projects I have worked on, focused on data analytics, data science, and automation.
 
 ## Proyectos Destacados
 
-1. **Análisis de datos en Python con Pandas y Matplotlib**  
+1. **Análisis de datos "Analysis of the relationship of sociodemographic variables with the hemoglobin level of children aged 6 to 36 months in Peru.**  
    - [Ver proyecto](./proyecto-1)
-   - Análisis exploratorio de datos utilizando un dataset de ventas y visualizaciones con gráficos personalizados.
+   - Exploratory data analysis using a database from the ENDES (Demographic and Family Health Survey) of the year 2018, which is administered by the National Institute of Statistics and Informatics (INEI) and consists of 10,332 surveys.
 
 ## Sobre mí
 
-Soy analista de datos con experiencia en Python, C++, y R Studio. Actualmente busco proyectos en Upwork y en plataformas similares. Me especializo en la visualización y análisis de datos, así como en el desarrollo de aplicaciones web.
+I am a data analyst/scientist with experience in Python, C++, Powe BI and R Studio. I am currently looking for projects on Upwork and similar platforms. I specialize in data visualization and analysi.
 
-[LinkedIn](https://www.linkedin.com/) | [Correo](mailto:jorge@example.com)
+[LinkedIn](https://www.linkedin.com/) | [Gmail](lukasrexsg@gmail.com)
 
 
 
