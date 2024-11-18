@@ -1,1 +1,1 @@
-Variables and their measurements (Imágenes/tabla1)
+![Tabla de variables](Imágenes/tabla1.jpg)
