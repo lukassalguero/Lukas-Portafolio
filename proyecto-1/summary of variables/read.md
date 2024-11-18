@@ -1,1 +1,1 @@
-![Tabla de variables](Imágenes/tabla1.jpg)
+![Tabla de variables](C:\Users\user\Pictures\tabla1)
