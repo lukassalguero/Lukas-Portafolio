@@ -25,12 +25,10 @@ The general objective of this research is to analyze the relationship between so
 - Infant had fever in the last 2 weeks (Yes/No)
 
 
-## Estructura del Proyecto
+## Project Structure
 
-- `data (R.data)`: Contiene el código fuente del análisis.
-- `: Dataset utilizado para el análisis.
-- `Results/`: Carpeta que contiene las visualizaciones generadas.
-- `R Scripts`: Lista de dependencias necesarias para ejecutar el proyecto.
-- `Final Conclusions`: Lista de dependencias necesarias para ejecutar el proyecto.
-
-
+- `data (R.data)`: Contains the source code for the analysis.
+- `: Dataset used for the analysis.
+- `Results/`: Folder containing the generated visualizations.
+- `R Scripts`: List of dependencies required to run the project.
+- `Final Conclusions`: List of dependencies required to run the project.
