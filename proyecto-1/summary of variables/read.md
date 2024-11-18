@@ -1,1 +1,1 @@
-Variables and their measurements (imagenes/tabla1)
+Variables and their measurements (Imágenes/tabla1)
